@@ -35,15 +35,15 @@
 
 ## 🎓 Education & Credentials
 - 🇬🇧 **The University of Manchester (AMBS):** MSc in Business Analysis and Strategic Management
-- 🇺🇸 **UC Berkeley:** Summer Session in Commercial Studies
 - 🇹🇼 **National Chengchi University (NCCU):** Bachelor of Business Administration
+- 🇺🇸 **UC Berkeley:** Summer Session in Commercial Studies
 
 ---
 
 ## 🛠️ Core Competencies
 - **Strategy:** Market Analysis, Competitor Benchmarking, GTM Strategy.
 - **Operations:** JIT Inventory Management, CRM, Supply Chain Coordination.
-- **Soft Skills:** High-stake Negotiation, Team Coaching, Relationship Management.
+- **Soft Skills:** Strategic Negotiation, Team Coaching, Relationship Management.
 
 ---
 
