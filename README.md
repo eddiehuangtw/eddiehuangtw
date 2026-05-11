@@ -50,7 +50,7 @@
 ## 📫 Connect with Me
 - 📧 **Email:** [eddiehuangtw@gmail.com](mailto:eddiehuangtw@gmail.com)
 - 📍 **Location:** Manchester, United Kingdom
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile-url](www.linkedin.com/in/eddiehuangtw) ---
+- 💼 **LinkedIn:** [linkedin.com/in/eddiehuangtw](https://www.linkedin.com/in/eddiehuangtw)
 *“Success is where preparation and opportunity meet.”*## Hi there 👋
 
 <!--
