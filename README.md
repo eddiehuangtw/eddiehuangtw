@@ -1,69 +1,73 @@
-# Hi, I'm Ming-Wei (Eddie) Huang 👋
-
-### 🚀 Senior Business Development Manager | AMBS Master Graduate
-**Driving Revenue Growth through Strategic Insight & Scalable Execution**
+# 🚀 Eddie Huang
+**Senior Business Development Manager | Business Expansion Strategist** *Specializing in Market Penetration, Operational Efficiency, and Strategic Growth*
 
 ---
 
-## 📈 Executive Snapshot
-- **Performance:** Consistently exceeded sales KPIs by **1.3x – 1.6x**.
-- **Portfolio:** Managed **300+ retail accounts** across the UK.
-- **Expertise:** Strategic Market Expansion, JIT Inventory Optimization, and High-Stake Negotiations.
-- **Education:** MSc in Business Analysis & Strategic Management from **Alliance Manchester Business School**.
+## 💎 Professional Summary
+Performance-driven Senior Business Development Manager with a Master’s in Business Analysis and Strategic Management from **Alliance Manchester Business School (AMBS)**. Proven track record of consistently exceeding sales KPIs by **1.3x to 1.6x** while managing complex portfolios of **300+ retail accounts**. Expertise lies in bridging the gap between comprehensive strategic planning and direct market engagement, especially in rapidly evolving regulatory environments.
 
 ---
 
-## 💼 Professional Highlights
+## 💼 Detailed Work Experience
 
-### **Senior Business Development Manager @ First Union/Feoba Wave Ltd**
+### **Senior Business Development Manager | First Union/Feoba Wave Ltd**
 *Manchester, UK | Dec 2025 – Present*
-- **Revenue Growth:** Maintaining top-tier performance by outperforming monthly targets by up to **66%**.
-- **Market Expansion:** Leading GTM strategies for new product lines, ensuring rapid market penetration through expert retailer advocacy.
-- **Operational Efficiency:** Implemented **Just-In-Time (JIT)** workflows to optimize inventory turnover and eliminate stockouts.
 
-### **Area Brand Consultant @ Foxergo Limited**
-*Manchester, UK | Apr 2024 – Nov 2025*
-- **Rapid Scaling:** Achieved **500 active retail users within 3 months** during early-stage scale-up.
-- **Strategic Negotiation:** Managed multi-brand bundle strategies and successfully turned around underperforming territories.
+**Strategic Revenue Growth & Market Expansion**
+* **KPI Overachievement:** Consistently delivering 130%–160% of monthly sales targets through sophisticated account management and territory optimization.
+* **New Product Launch:** Spearheaded the GTM (Go-To-Market) strategy for next-generation product lines across 300+ accounts, ensuring rapid market penetration.
+* **Relationship Management:** Leveraging executive-level negotiation to maintain top-tier performance and seamless brand transitions.
 
-### **Business Development Manager @ Move On Tea Shop**
-*Taipei, Taiwan | Jul 2019 – Aug 2023*
-- **Franchising Expert:** Developed franchising models and closed **9 deals/month** by optimizing site selection and brand image.
-- **Digital Growth:** Generated **50+ monthly inbound enquiries** by establishing the brand’s digital presence.
+**Operational Excellence & Market Intelligence**
+* **JIT Implementation:** Optimized inventory turnover by implementing Just-In-Time (JIT) workflows, significantly reducing stockouts and procurement costs.
+* **Strategic Reporting:** Conducting rigorous market and competitor analysis to provide actionable insights for HQ, influencing global pricing and marketing campaigns.
+* **Leadership:** Directing staff onboarding and field coaching to standardize sales excellence across the regional team.
 
 ---
 
-## 🎓 Education & Credentials
-- 🇬🇧 **The University of Manchester (AMBS):** MSc in Business Analysis and Strategic Management
-- 🇹🇼 **National Chengchi University (NCCU):** Bachelor of Business Administration
-- 🇺🇸 **UC Berkeley:** Summer Session in Commercial Studies
+### **Area Brand Consultant | Foxergo Limited**
+*Manchester, UK | Apr 2024 – Nov 2025*
+
+**Rapid Market Scaling**
+* **User Acquisition:** Achieved a milestone of **500 active retail users within the first 3 months**, demonstrating high adaptability in an early-stage scale-up environment.
+* **Regulatory Navigation:** Effectively adapted sales strategies to meet the shifting legal landscape of the UK vape industry, ensuring compliant yet aggressive growth.
+* **Portfolio Turnaround:** Identified and revitalized underperforming territories through multi-brand bundle strategies and targeted retail advocacy.
+
+---
+
+### **Business Development Manager | Move On Tea Shop**
+*Taipei, Taiwan | Jul 2019 – Aug 2023*
+
+**Franchise & Business Model Development**
+* **Franchise Growth:** Developed a scalable franchising model and successfully closed **9 deals per month** by optimizing site selection and partner onboarding.
+* **Sales Strategy Refinement:** Enhanced deal closure rates by redesigning presentation frameworks and integrating multimedia brand storytelling.
+* **Market Research:** Conducted comprehensive competitor analysis to refine brand positioning in a saturated market.
+
+**Digital Transformation**
+* **Inbound Lead Generation:** Built the brand’s digital infrastructure (website & social media), generating over **50+ monthly inbound enquiries**.
+
+---
+
+### **Ocean Forwarding Intern | DHL Global Forwarding**
+*Taipei, Taiwan | Jan 2018 – Jul 2018*
+* Managed high-accuracy billing for international shipments and served as a key linguistic bridge for internal English-speaking teams.
+
+---
+
+## 🎓 Education
+* **MSc Business Analysis and Strategic Management** | Alliance Manchester Business School (AMBS)
+* **Bachelor of Business Administration** | National Chengchi University (NCCU)
+* **Commercial Studies (Summer Session)** | University of California, Berkeley (UCB)
 
 ---
 
 ## 🛠️ Core Competencies
-- **Strategy:** Market Analysis, Competitor Benchmarking, GTM Strategy.
-- **Operations:** JIT Inventory Management, CRM, Supply Chain Coordination.
-- **Soft Skills:** Strategic Negotiation, Team Coaching, Relationship Management.
+* **Growth Strategy:** Market Entry, GTM Planning, Franchise Development.
+* **Operations:** JIT Workflow, Inventory Optimization, Business Analysis.
+* **Soft Skills:** Executive-level Negotiation, Adaptive Execution, Cross-functional Leadership.
 
 ---
 
-## 📫 Connect with Me
-- 📧 **Email:** [eddiehuangtw@gmail.com](mailto:eddiehuangtw@gmail.com)
-- 📍 **Location:** Manchester, United Kingdom
-- 💼 **LinkedIn:** [linkedin.com/in/eddiehuangtw](https://www.linkedin.com/in/eddiehuangtw)
-*“Success is where preparation and opportunity meet.”*## Hi there 👋
-
-<!--
-**eddiehuangtw/eddiehuangtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/eddiehuangtw](https://www.linkedin.com/in/eddiehuangtw)
+- **Email:** eddiehuangtw@gmail.com
